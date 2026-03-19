@@ -1,5 +1,5 @@
 # IF165 - Computação Eletrônica - UFPE
 
-### Códigos desenvolvidos durante a disciplina
+### Códigos desenvolvidos durante a disciplina:
 
 - lista 1 (Exercícios de condicionais)
