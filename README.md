@@ -1,5 +1,5 @@
-#IF165 - Computação Eletrônica
+# IF165 - Computação Eletrônica
 
-##Cadeira de Computação Eletrônica da Universidade Federal de Pernambuco - UFPE
+## Cadeira de Computação Eletrônica da Universidade Federal de Pernambuco - UFPE
 
-###Códigos desenvolvidos durante a disciplina
+### Códigos desenvolvidos durante a disciplina
