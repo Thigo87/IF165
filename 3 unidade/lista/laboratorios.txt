@@ -1,0 +1,5 @@
+matematica 7
+fisica 5
+quimica 8
+robotica 25
+informatica 25

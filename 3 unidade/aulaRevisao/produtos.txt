@@ -1,0 +1,8 @@
+arroz	 4.00
+feijao	 3.00
+oleo	 4.55
+sabonete	 4.00
+tomate	 7.50
+cebola	 5.55
+alface	 2.99
+batata	 4.59

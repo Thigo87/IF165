@@ -5,3 +5,4 @@
 - lista 1 (Exercícios de condicionais);
 - lista 2;
 - lista da segunda unidade;
+- códigos da 3ª unidade;
